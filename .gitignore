@@ -1,0 +1,19 @@
+# Lean / Lake
+.lake/
+*.olean
+*.ilean
+*.c
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*~
+*.swp
+*.swo
+
